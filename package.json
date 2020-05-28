@@ -1,6 +1,6 @@
 {
-  "name": "ZenklubJs",
-  "version": "0.0.1",
+  "name": "joy-meter",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "android": "react-native run-android",

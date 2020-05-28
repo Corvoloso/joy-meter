@@ -12,24 +12,24 @@ function App() {
   return (
     <NavigationContainer>
       <Stack.Navigator
-        initialRouteName="Meter"
+        initialRouteName="Emotions"
         screenOptions={{
           headerTitleAlign: 'center',
           headerTransparent: true,
         }}>
-        <Stack.Screen
-          name="Meter"
-          component={Meter}
-          options={{
-            title: '',
-          }}
-        />
         <Stack.Screen
           name="Emotions"
           component={Emotions}
           options={{
             title: 'How are you feeling',
             headerTintColor: '#fff',
+          }}
+        />
+        <Stack.Screen
+          name="Meter"
+          component={Meter}
+          options={{
+            title: '',
           }}
         />
       </Stack.Navigator>
