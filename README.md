@@ -37,7 +37,7 @@ after that you should get the following screen:
 
 ![Corvoloso logo](https://i.imgur.com/A1Hj4C9.jpg)
 
-Now you can enjoy yourself a little ***work in progress***, a project to try do get some animations done.
+Now you can enjoy yourself a little ***work in progress***, a project to try to get some animations done.
 
 Thank you for reading until now, hope this could be useful to get the project runing and hope you liked it, feel free to get some issues running for me. I do intend to get some more things running in the project over the time
 
