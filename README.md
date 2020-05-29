@@ -35,7 +35,7 @@ yarn start
 
 after that you should get the following screen:
 
-![Corvoloso logo](https://i.imgur.com/189biEH.jpg)
+![Corvoloso logo](https://i.imgur.com/A1Hj4C9.jpg)
 
 Now you can enjoy yourself a little ***work in progress***, a project to try do get some animations done.
 
